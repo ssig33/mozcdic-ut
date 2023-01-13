@@ -1,0 +1,22 @@
+## License
+
+File | License | Note
+-- | -- | --
+chimei | [public domain](http://www.post.japanpost.jp/zipcode/dl/readme.html) | Placenames from ZIP codes.
+jawiki-articles | [CC-BY-SA 3.0](https://ja.wikipedia.org/wiki/Wikipedia:ウィキペディアを二次利用する) | Generated from Japanese Wikipedia.
+jinmei-ut | [Apache-2.0](http://linuxplayers.g1.xrea.com/mozc-ut.html) | Japanese name dictionary.
+neologd | [Apache-2.0](https://github.com/neologd/mecab-ipadic-neologd) | Modified mecab-user-dict-seed entries.
+jawiki-titles | [CC-BY-SA 3.0](https://ja.wikipedia.org/wiki/Wikipedia:ウィキペディアを二次利用する) | For cost adjustment.
+mozc | [BSD-3-Clause](https://github.com/google/mozc) | For checking duplicates.
+.rb, .sh | [Apache-2.0](http://linuxplayers.g1.xrea.com/mozc-ut.html) | Codes to generate dictionaries.
+
+## Optional dictionaies
+
+They are not included in Mozc UT Dictionary by default.
+
+File | License | Note
+-- | -- | --
+alt-cannadic | [GPL-2.0](https://ja.osdn.net/projects/alt-cannadic/wiki/FrontPage) | 
+edict2 | [CC-BY-SA 3.0](http://www.edrdg.org/jmdict/edict.html) | 
+skkdic | [GPL-2.0-or-later](http://openlab.ring.gr.jp/skk/wiki/wiki.cgi?page=SKK%BC%AD%BD%F1) | 
+sudachidict | [Apache-2.0](https://github.com/WorksApplications/SudachiDict) | 
